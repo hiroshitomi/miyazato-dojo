@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Poppins:wght@300&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  margin: 0;
+  color-scheme: light dark;
+}
